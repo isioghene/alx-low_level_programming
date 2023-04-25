@@ -6,7 +6,7 @@
  * main - Entry point
  * Description: Determines if a number is positive, negative or zero
  *
- * Retur: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
