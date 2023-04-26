@@ -1,12 +1,10 @@
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
-
 /**
  * main - Entry point
- * Description: Prints the last digit of a randomly generated number and check if the number is greater than 5, less than 6 or 0
- *
- * return: Always 0
+ * Description: Prints the last digit of a randomly generated number
+ * Return: always 0
  */
 int main(void)
 {
